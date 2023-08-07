@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+owologger/__init__.py
+owologger/processor.py
+owologger.egg-info/PKG-INFO
+owologger.egg-info/SOURCES.txt
+owologger.egg-info/dependency_links.txt
+owologger.egg-info/requires.txt
+owologger.egg-info/top_level.txt
